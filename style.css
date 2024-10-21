@@ -159,7 +159,7 @@ nav ul li:last-child a {
 
 /* Hero Section */
 #hero {
-    background-color: #001f3f;
+    background-color: #001f3fE6;
     color: white;
     text-align: center;
     padding: 100px 20px 60px;
@@ -233,7 +233,7 @@ nav ul li:last-child a {
     background-color: #002b5c;
 }
 
-/* Services Section */
+/* Services Section teenused*/
 #services {
     padding: 60px 20px;
     text-align: center;
@@ -252,7 +252,7 @@ nav ul li:last-child a {
 }
 
 #services ul li {
-    background-color: #f09e1b;
+    background-color: #fbc829;
     padding: 20px;
     border: 1px solid #ddd;
     border-radius: 5px;
@@ -334,7 +334,7 @@ nav ul li:last-child a {
 }
 
 .swiper-slide img {
-    max-width: 60%;
+    max-width: 90%;
     height: auto;
     border-radius: 5px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
